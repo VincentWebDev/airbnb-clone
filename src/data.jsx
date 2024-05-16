@@ -1,4 +1,6 @@
 import katie from "./assets/images/katie-zaferes.png";
+import wedding from "./assets/images/wedding-photography.png";
+import bike from "./assets/images/mountain-bike.png";
 
 export default [
   {
@@ -21,8 +23,7 @@ export default [
     description:
       "Interested in becoming a wedding photographer? For beginner and experienced photographers alike, join us in learning techniques required to leave the happy couple with memories that'll last a lifetime.",
     price: 125,
-    coverImg:
-      "https://raw.githubusercontent.com/VincentWebDev/airbnb-clone/main/src/assets/images/wedding-photography.png",
+    coverImg: wedding,
     stats: {
       rating: 5.0,
       reviewCount: 30,
@@ -36,8 +37,7 @@ export default [
     description:
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 50,
-    coverImg:
-      "https://raw.githubusercontent.com/VincentWebDev/airbnb-clone/main/src/assets/images/mountain-bike.png",
+    coverImg: bike,
     stats: {
       rating: 4.8,
       reviewCount: 2,
